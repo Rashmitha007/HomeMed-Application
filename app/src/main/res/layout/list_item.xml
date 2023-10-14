@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/diseaseImage"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/acidity">
+
+    </ImageView>
+
+
+    <TextView
+        android:id="@+id/diseaseName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/diseaseImage"
+        android:layout_marginStart="8dp"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:textStyle="bold">
+
+    </TextView>
+
+
+    <ImageView
+        android:id="@+id/arrowImage"
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/arrow">
+
+    </ImageView>
+
+
+</RelativeLayout>
+

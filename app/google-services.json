@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416911487177",
+    "project_id": "homeremedy-7c232",
+    "storage_bucket": "homeremedy-7c232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416911487177:android:3d656e3f1c0166d0325d18",
+        "android_client_info": {
+          "package_name": "com.example.homeremedy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416911487177-hg3b7j0ecbntk81p15h1lsdmd9dl1oe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeremedy",
+            "certificate_hash": "3258efd54dda255781fc20f7c2db05633eeb42d3"
+          }
+        },
+        {
+          "client_id": "416911487177-hrtuol2rlf6f71qoshdgno4q618t4j3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWQ5fZ0SaGV3lXvWDp7KW66Ngh_jUWVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416911487177-hrtuol2rlf6f71qoshdgno4q618t4j3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
